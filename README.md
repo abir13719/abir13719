@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co/zxm5KDp/github-header-image-1.png)
 
-## 👋 Hello, I'm [Your Name]! 😄 Pronouns: He/Him
+## 👋 Hello, I'm Aminul Islam! 😄 Pronouns: He/Him
 
 ### 🚀 About Me
 I love to build web applications that not only look great but also provide a seamless user experience. I am constantly learning and expanding my skill set, and I'm excited to contribute to meaningful projects.
