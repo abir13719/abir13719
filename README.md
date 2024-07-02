@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://i.ibb.co/x7X6pKr/github-header-image.png)
+![Banner](https://i.ibb.co/zxm5KDp/github-header-image-1.png)
 
 I'm a fresh and enthusiastic Junior Web Developer, passionate about creating stunning web applications. Here’s a bit about me:
 
