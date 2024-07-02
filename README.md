@@ -1,7 +1,13 @@
 <!-- Banner Image -->
 ![Banner](https://i.ibb.co/zxm5KDp/github-header-image-1.png)
 
-I'm a fresh and enthusiastic Junior Web Developer, passionate about creating stunning web applications. Here’s a bit about me:
+### 🚀 About Me
+I love to build web applications that not only look great but also provide a seamless user experience. I am constantly learning and expanding my skill set, and I'm excited to contribute to meaningful projects.
+
+### 🔥 Daily Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=abir13719&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abir13719)](https://git.io/streak-stats)
+
 
 ### 🛠️ Technologies & Tools
 
@@ -10,11 +16,8 @@ I'm a fresh and enthusiastic Junior Web Developer, passionate about creating stu
 - **Databases:** MongoDB
 - **Backend as a Service (BaaS):** Firebase
 
-### 🚀 About Me
-I love to build web applications that not only look great but also provide a seamless user experience. I am constantly learning and expanding my skill set, and I'm excited to contribute to meaningful projects.
 
-### 🔥 Daily Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+
 
 ### 🧰 Skills
 
