@@ -6,8 +6,6 @@ I love to build web applications that not only look great but also provide a sea
 
 ### 🔥 Daily Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=abir13719&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abir13719)](https://git.io/streak-stats)
-
 
 ### 🛠️ Technologies & Tools
 
