@@ -1,8 +1,5 @@
-## Hi there 👋
 <!-- Banner Image -->
-![Banner](https://your-banner-image-url.com)
-
-## 👋 Hello, I'm [Your Name]!
+![Banner](https://i.ibb.co/x7X6pKr/github-header-image.png)
 
 I'm a fresh and enthusiastic Junior Web Developer, passionate about creating stunning web applications. Here’s a bit about me:
 
