@@ -14,20 +14,7 @@ I love to build web applications that not only look great but also provide a sea
 ![React](https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase)
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abir13719&show_icons=true&theme=radical)
-
-### 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://yourwebsite.com)
-
-<!--
-**your-username/your-username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebaselogoColor=yellow)
 
 <!--
 **abir13719/abir13719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
